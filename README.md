@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hi 👋, I'm Darshan Mahajan
 
-<!--
-**darshan1301/darshan1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | JavaScript & TypeScript | Backend & APIs
 
-Here are some ideas to get you started:
+I’m a Full Stack Developer focused on building scalable web applications, backend systems, and API-driven products. I work primarily with **JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, Redis, and AWS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving backend and distributed-system problems, integrating third-party APIs, optimizing application performance, and building reliable production systems.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/darshan-mahajan1301">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahajandarshan21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/darshan1301">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Summary
+
+* 💻 Full Stack Developer experienced in **React, Next.js, Node.js and TypeScript**
+* ⚙️ Building scalable **REST APIs and backend workflows**
+* 🗄️ Working with **PostgreSQL, MongoDB, Prisma and Redis**
+* ☁️ Experience with **AWS EC2, RDS, S3 and Auto Scaling**
+* 🔐 Experience implementing authentication, authorization and role-based access control
+* 🔌 Experienced in integrating **third-party APIs, payment gateways and verification services**
+* 🚀 Interested in **backend architecture, distributed systems and scalable infrastructure**
+
+---
+
+## 🛠️ Skills
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+**React.js · Next.js · Redux Toolkit · TanStack Query · React Router · Recoil · Tailwind CSS**
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
+</p>
+
+**Node.js · Express.js · Prisma · PostgreSQL · MongoDB · Redis · REST APIs**
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,github" />
+</p>
+
+**AWS EC2 · AWS RDS · AWS S3 · Auto Scaling Groups · Docker · Nginx · GitHub · Turborepo**
+
+---
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan1301&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan1301&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1301&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan1301&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and shipping 🚀</i>
+</p>
