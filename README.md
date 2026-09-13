@@ -72,23 +72,14 @@ I enjoy solving backend and distributed-system problems, integrating third-party
 
 ## 📊 GitHub Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan1301&show_icons=true&theme=transparent&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan1301&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=darshan1301&theme=github-dark-blue&hide_border=true"
+    alt="Darshan's GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1301&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan1301&theme=github-compact&hide_border=true" />
-</p>
 
 ---
 
